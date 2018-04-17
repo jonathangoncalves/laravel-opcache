@@ -1,13 +1,13 @@
 {
-  "name": "elcobvg/laravel-opcache",
+  "name": "jonathangoncalves/laravel-opcache",
   "description": "Custom OPcache Cache Driver for Laravel. Faster than Redis or memcached.",
   "keywords": ["laravel", "cache", "driver", "opcache", "webprofiler"],
-  "homepage": "https://github.com/elcobvg/laravel-opcache",
+  "homepage": "https://github.com/jonathangoncalves/laravel-opcache",
   "license": "MIT",
   "authors": [
     {
-      "name": "Elco Brouwer von Gonzenbach",
-      "email": "elco.brouwer@gmail.com"
+      "name": "Jonathan Goncalves",
+      "email": "jonathancsg1994@yahoo.com.br"
     }
   ],
   "require": {
